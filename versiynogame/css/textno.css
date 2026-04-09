@@ -1,0 +1,28 @@
+a {
+    color: chocolate;
+    text-decoration: none;
+}
+
+.Right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.textDecoration {
+    text-decoration: underline;
+}
+
+.textDecorationNone {
+    text-decoration: none;
+}
+
+.textDecorationOverline {
+    text-decoration: overline;
+}
+
+.textDecorationlineThrough {
+    text-decoration: line-through;
+}

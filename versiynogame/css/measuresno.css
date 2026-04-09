@@ -1,0 +1,34 @@
+.pix {
+    border: darkblue solid 1px;
+    width: 500px;
+}
+
+.percent {
+    border: darkblue solid 1px;
+    width: 50%;
+}
+
+.vw {
+    border: darkblue solid 1px;
+    width: 50vw
+}
+
+.per {
+    background-color: red;
+    width: 50%;
+}
+
+.per2 {
+    background-color: yellow;
+    width: 50%;
+}
+
+.v {
+    background-color: red;
+    width: 50vw;
+}
+
+.v2 {
+    background-color: yellow;
+    width: 50vw;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&display=swap');
+
+@font-face {
+    font-family: "Terminator Cyr";
+    src: url(../fonts/terminatorcyr_semi_expandedbold.ttf);
+}
+
+
+.shedevr {
+    font-size: 7em;
+    color: chocolate;
+}
+
+.fontFamily {
+    font-size: 4em;
+    font-family: "Bitcount Prop Double Ink", system-ui;
+}
+
+.ter {
+    font-size: 5em;
+    font-family: "Terminator Cyr";
+    color: red;
+}

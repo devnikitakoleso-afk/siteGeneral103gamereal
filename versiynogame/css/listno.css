@@ -1,0 +1,12 @@
+ul,
+ol {
+    width: 20%;
+}
+
+.even {
+    background-color: rgba(252, 104, 41, 0.784);
+}
+
+.odd {
+    background-color: rgb(10, 242, 60);
+}
